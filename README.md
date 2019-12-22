@@ -6,5 +6,5 @@ Prerequisite:
 - Python3
 - pip3
   - $ sudo apt install python3-pip
-- dnspyhton Library
+- dnspython Library
   - $ pip3 install git+https://github.com/rthalley/dnspython.git
